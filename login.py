@@ -1,6 +1,5 @@
 from user import *
 from admin import *
-from main import *
 from list import *
 
 

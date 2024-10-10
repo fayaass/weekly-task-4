@@ -1,5 +1,4 @@
 from user import *
-from main import *
 from login import *
 from list import *
 

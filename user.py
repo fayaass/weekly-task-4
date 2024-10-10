@@ -1,4 +1,4 @@
-from main import *
+
 from admin import *
 from login import *
 from list import *
