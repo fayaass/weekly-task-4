@@ -6,12 +6,7 @@ from list import *
 
 
 
-def view_user():
-    for i in user:
-        print('name',i['name'])
-        print('id',i['id'])
-        print('email',i['email'])
-        print('phone',i['phone'])
+
 
 
 
